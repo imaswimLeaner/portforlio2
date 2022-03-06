@@ -4,7 +4,7 @@ export const products = [
 	{
 		id: 1,
 		img: 'https://res.cloudinary.com/dut5q98dj/image/upload/v1646563853/sp2_bca5041d57.jpg',
-		link: 'https://jonathanminds.com/jc-sp2/index.html',
+		link: 'https://bergshoeonline-sp-2.vercel.app/',
 	},
 	{
 		id: 2,
@@ -14,6 +14,6 @@ export const products = [
 	{
 		id: 3,
 		img: 'https://res.cloudinary.com/dut5q98dj/image/upload/v1646577373/css_frameworks_b9b5a37420.jpg',
-		link: 'https://jonathanminds.com/react-ca',
+		link: 'https://css-frameworks-ca-jc.vercel.app/',
 	},
 ];
